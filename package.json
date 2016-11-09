@@ -1,0 +1,29 @@
+{
+  "name": "generator-jon",
+  "version": "0.1.0-alpha.0",
+  "description": "Doing things like I would - jon.soy.",
+  "main": "index.js",
+  "files": [
+    "generators/app",
+    "generators/router"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonDotsoy/generator-jon.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Jonathan Delgado <hi@jon.soy>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonDotsoy/generator-jon/issues"
+  },
+  "homepage": "https://github.com/JonDotsoy/generator-jon#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
